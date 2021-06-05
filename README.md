@@ -9,7 +9,11 @@ The project includes several sections such as:
 - Analyzing the skewness of Yelp Reviews 
 - Analyzing the skewness of reviews completed by elite Yelp users
 
-![cluster_image](/Users/oleseagalusca/Desktop/TU_Big Data/project2_content/project02/assests/cluster_configuration.png)
 
-![notebook_image](/Users/oleseagalusca/Desktop/TU_Big Data/project2_content/project02/assests/notebook_configuration.png)
+![cluster_configuration](https://user-images.githubusercontent.com/64224466/120900772-bb54d580-c604-11eb-88dc-8ea82f3904ba.png)
+
+
+
+![notebook_configuration](https://user-images.githubusercontent.com/64224466/120900776-d0c9ff80-c604-11eb-8115-e848e3048e78.png)
+
 
