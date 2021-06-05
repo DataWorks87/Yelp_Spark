@@ -1,4 +1,4 @@
-Analyzing 10Gb of Yelp Reviews Data
+## Analyzing 10Gb of Yelp Reviews Data
 
 The project is based on Yelp Reviews data available on Kaggle. In order to perfom this analysis I provisioned a Spark Cluster on AWS EMR and uploaded the data set in a AWS S3 bucket. The data set used from analysis is the business, review and user files. The analysis was done in Jupyter Notebook using PySpark Data Frame. 
 
